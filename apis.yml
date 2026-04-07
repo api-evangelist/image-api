@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Images
-  - Digitization
   - Business Processes
+  - Digitization
   - Forms
+  - Images
 url: >-
   https://raw.githubusercontent.com/api-search/image-api/refs/heads/main/apis.yml
 created: '2024-11-13'
@@ -26,9 +26,9 @@ apis:
       and content management solutions.
     humanURL: https://www.imageapi.com/
     tags:
-      - Images
-      - Digitization
       - Business Processes
+      - Digitization
+      - Images
     properties:
       - type: Documentation
         url: https://www.imageapi.com/
