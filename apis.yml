@@ -33,6 +33,10 @@ common:
     url: https://www.docufree.com/services/
   - type: Contact
     url: https://www.docufree.com/contact/
+  - type: Integrations
+    url: https://www.docufree.com/partners/
+integrations:
+  - name: websights
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
