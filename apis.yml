@@ -25,6 +25,10 @@ url: https://raw.githubusercontent.com/api-evangelist/image-api/refs/heads/main/
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: TrustCenter
+    url: security/image-api-trust-center.yml
+  - type: DomainSecurity
+    url: security/image-api-domain-security.yml
   - type: Website
     url: https://www.docufree.com/
   - type: Legacy Website
@@ -35,6 +39,8 @@ common:
     url: https://www.docufree.com/contact/
   - type: Integrations
     url: https://www.docufree.com/partners/
+  - url: https://www.docufree.com/feed/
+    type: Blog
 integrations:
   - name: websights
 maintainers:
