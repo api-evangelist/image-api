@@ -38,7 +38,7 @@ tags:
   - Business Process Automation
   - Digital Mailroom
   - Digitization
-  - Document-Management
+  - Document Management
   - Electronic Signature
   - Forms
 tags_raw:
@@ -48,6 +48,7 @@ tags_raw:
   - Document Management
   - Electronic Signature
   - Forms
+  - Document-Management
 created: '2024-11-13'
 modified: '2026-04-28'
 url: https://raw.githubusercontent.com/api-evangelist/image-api/refs/heads/main/apis.yml
