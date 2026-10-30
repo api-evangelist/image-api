@@ -1,4 +1,4 @@
-# Image API (image-api)
+# Image API
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,40 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Image API was a digital business automation company specializing in the digitization, optimization, and management of business processes, forms, and content. The company has rebranded as **Docufree** and provides enterprise services including document scanning and imaging, digital mailroom automation, business process automation (RPA/AI), electronic signature, cloud document management, and outbound print and mail.
+Image API was a digital business automation company specializing in the digitization, optimization, and management of business processes, forms, and content. The company has rebranded as Docufree and provides enterprise services including document scanning and imaging, digital mailroom automation, business process automation (RPA/AI), electronic signature, cloud document management, and outbound print and mail. Despite the legacy brand name "Image API", the company does not publish a public developer API or API portal. This repository tracks APIs, SDKs, and developer resources should they become available.
 
-Despite the legacy brand name "Image API", the company does not publish a public developer API or API portal.
+**Areas:** Business Process Automation · Digital Mailroom · Digitization · Document Management · E-Signature · Forms
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/image-api/refs/heads/main/apis.yml)
+## Image API on APIs.io
 
-## Scope
+Everything profiled for Image API is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/image-api/](https://apis.io/providers/image-api/)** — or go straight to one of the APIs or properties below.
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+### Published properties
 
-## Tags
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- Business Process Automation, Digital Mailroom, Digitization, Document Management, Electronic Signature, Forms
+#### Security (2)
 
-## Timestamps
+Authentication, trust centre, and vulnerability disclosure.
 
-- **Created:** 2024-11-13
-- **Modified:** 2026-04-28
+- [Image Api Domain Security](https://apis.io/security/image-api/image-api-domain-security/)
+- [Image Api Trust Center](https://apis.io/security/image-api/image-api-trust-center/)
 
-## APIs
+## Where to find this API
 
-No public APIs or developer programs have been identified for Image API / Docufree at this time. The company sells enterprise services rather than developer-facing APIs. Updates will be added as they are discovered.
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Common Properties
+- [Website](https://www.docufree.com/)
+- [Blog](https://www.docufree.com/feed/)
 
-- [Website (Docufree)](https://www.docufree.com/)
-- [Legacy Website](https://www.imageapi.com/)
-- [Services](https://www.docufree.com/services/)
-- [Contact](https://www.docufree.com/contact/)
+## API Evangelist rating
 
-## Maintainers
+**Kin Score 6.2** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**FN:** Kin Lane
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 7.9 |
 
-**Email:** kin@apievangelist.com
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/image-api/](https://apis.io/providers/image-api/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Image API: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/image-api/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
